@@ -1,0 +1,12 @@
+[Details]
+Icon = "icons/fyne.png"
+Name = "SyncAtime"
+ID = "com.github.saintbyte.syncatime"
+Version = "1.0.0"
+Build = 10
+
+[Development]
+HelperText = "This binary was build with debug symbol"
+
+[Release]
+HelperText = "This binary was build without debug symbol"
